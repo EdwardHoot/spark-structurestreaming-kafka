@@ -1,0 +1,17 @@
+free avg deckbytes
+cache avg deckbytes
+buff avg deckbytes
+swpd avg deckbytes
+r avg short
+b avg short
+us avg percent
+sy avg percent
+id avg percent
+wa avg percent
+bi avg short
+bo avg short
+si avg short
+so avg short
+in avg short
+cs avg short
+

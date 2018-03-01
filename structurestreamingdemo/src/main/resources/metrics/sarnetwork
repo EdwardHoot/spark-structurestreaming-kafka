@@ -1,0 +1,7 @@
+rxpck_s avg short
+txpck_s avg short
+rxkB_s avg decbytes
+txkB_s avg decbytes
+rxcmp_s avg short
+txcmp_s avg short
+rxmcst_s avg short

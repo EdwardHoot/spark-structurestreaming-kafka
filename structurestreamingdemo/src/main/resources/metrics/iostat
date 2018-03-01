@@ -1,0 +1,11 @@
+rrqm_s avg short
+wrqm_s avg short
+r_s avg short
+w_s avg short
+rsec_s avg short
+wsec_s avg short
+avgrq_sz avg short
+avgqu_sz avg short
+await avg ms
+svctm avg short
+util avg percents

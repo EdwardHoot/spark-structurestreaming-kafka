@@ -1,0 +1,12 @@
+checkNetSpeed avg short
+checkNetFlipping avg short
+checkNetDuplex avg short
+checkNetFrameError avg short
+checkPowerSupplyError avg short
+checkDiskKernelError avg short
+checkHardwareEvent avg short
+checkTimeout avg short
+checkMount avg short
+checkDiskHealth avg short
+checkDiskReadStatus avg short
+checkDiskBadBlock avg short

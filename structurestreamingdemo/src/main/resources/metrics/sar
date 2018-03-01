@@ -1,0 +1,15 @@
+totsck avg short
+tcpsck avg short
+udpsck avg short
+rawsck avg short
+ip_frag avg short
+tcp_tw avg short
+pgpgin_s avg short
+pgpgout_s avg short
+fault_s avg short
+majflt_s avg short
+pgfree_s avg short
+pgscank_s avg short
+pgscand_s avg short
+pgsteal_s avg short
+vmeff avg percent
